@@ -1,0 +1,12 @@
+{
+  "name": "main.js",
+  "type": "module",
+  "dependencies": {
+    "@digitak/esrun": "^3.2.25",
+    "@libp2p/bootstrap": "^10.0.6",
+    "@waku/sdk": "^0.0.21",
+    "libp2p": "^0.46.21",
+    "protobufjs": "^7.2.5",
+    "typescript": "^5.3.3"
+  }
+}
